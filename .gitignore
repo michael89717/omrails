@@ -22,3 +22,6 @@ doc/
 
 # ignore image upload
 /public/system
+
+# ignore sample images
+/sampleimages
